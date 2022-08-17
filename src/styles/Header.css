@@ -1,0 +1,11 @@
+
+.header{
+    width: 100%;
+    text-align: center;
+}
+
+.header .header-tittle{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: black;
+}
